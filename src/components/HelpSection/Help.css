@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&family=Montserrat:wght@200&family=Open+Sans:ital,wght@0,300;1,300&display=swap");
+
+.Help-container {
+  margin-top: 80px;
+}
+
+.hd-text {
+  color: white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.course-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  padding-top: 35px;
+  /* margin-right: 10px;
+    margin-left: 10px; */
+  height: 600px;
+  width: auto;
+  /* border-radius: 15px; */
+  background-color: #32ae19;
+  /* backdrop-filter: blur(5px); */
+}
+
+.ctn-card {
+  background-color: white;
+  border-radius: 20px;
+  height: 250px;
+  width: 300px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.ctn-card:hover {
+  transform: scale(1.03);
+  transition: 0.3s ease-in-out;
+  box-shadow: 5px 5px #e8f6c36d;
+}
+
+#ctn-card1 {
+  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/technology.svg");
+  background-size: 230px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#ctn-card2 {
+  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/farming.svg");
+  background-size: 230px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#ctn-card3 {
+  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/science.svg");
+  background-size: 230px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#ctn-card4 {
+  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/business.svg");
+  background-size: 230px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#ctn-card5 {
+  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/trading.svg");
+  background-size: 230px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#ctn-card6 {
+  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/marketing.svg");
+  background-size: 230px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.hlp-btn {
+  position: relative;
+  bottom: -80px;
+  border: none;
+  color: rgb(255, 255, 255);
+  /* background-color: #2b2e2a; */
+  background: linear-gradient(to left, #b0d5aa, #3f9453);
+  border-radius: 10px;
+  height: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  z-index: 1;
+  font-family: "Open Sans", sans-serif;
+}
+
+h4 {
+  font-family: "Open Sans", sans-serif;
+  position: absolute;
+  bottom: 70px;
+}

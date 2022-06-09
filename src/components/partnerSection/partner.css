@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&family=Montserrat:wght@200&family=Open+Sans:wght@300&display=swap");
+
+.prt-container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#h2{
+    font-family: "Montserrat", sans-serif;
+    color: white;
+}
+
+.prt-card{
+    background-color: #242424;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
