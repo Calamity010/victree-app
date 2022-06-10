@@ -8,21 +8,18 @@ function Img() {
         <div class="img-card">
           <div class="img-text">
             <div class="head-txt">
-              <h2>Lorem ipsum dolor sit amet</h2>
+              <h2>What Our Aim Is</h2>
             </div>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
-              tempor leo enim. Nunc molestie libero urna, id imperdiet diam
-              bibendum non. Integer aliquam dolor eu justo malesuada, nec
-              laoreet nisl fringilla. Nulla laoreet aliquam pulvinar.
+              To provide an intuitive platform for the common man. Learn about
+              topics to earn a livelihood. build a stable,personal and secure
+              career
             </p>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
-              tempor leo enim. Nunc molestie libero urna, id imperdiet diam
-              bibendum non. Integer aliquam dolor eu justo malesuada, nec
-              laoreet nisl fringilla.
+              Providing content in vernacular language to reach the
+              masses,courses curated with the aim of giving personal knowledge
             </p>
-            <h6>start your journey</h6>
+            <h6>start your journey!!</h6>
           </div>
         </div>
       </div>

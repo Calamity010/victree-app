@@ -30,7 +30,7 @@
 }
 
 .para-txt {
-  padding-top: 15px;
+  
   color: white;
   margin-left: 20px;
   margin-right: 20px;
@@ -46,6 +46,7 @@
   height: 40px;
   padding-left: 30px;
   padding-right: 30px;
+  margin-bottom: 20px;
 }
 
 .check-btn:hover{

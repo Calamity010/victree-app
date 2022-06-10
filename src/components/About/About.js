@@ -12,9 +12,9 @@ function About() {
         <div className="ab-text">
           <h1>why choose us</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-            vel sem a purus viverra aliquam non rutrum purus. Nulla vel erat sit
-            amet orci ultricies semper
+            We are the india's biggest livelihood education app catering to the
+            non-privileged class and providing the best of everything so that
+            everyone can afford it
           </p>
         </div>
       </div>
@@ -34,9 +34,12 @@ function About() {
               </div>
             </div>
             <div className="flip-card-back">
-              <h1>creativity</h1>
-              <h6>Theres no limit</h6>
-              <h6>to anything</h6>
+              <p>
+                Training you to be adaptable to every situation and focus on
+                what really matters,and work until you become a master.
+                <br />
+                work hard,endure and never quit.
+              </p>
             </div>
           </div>
         </div>
@@ -51,13 +54,15 @@ function About() {
                 width="200px"
               ></img>
               <div class="front-text">
-                <h3>Performance</h3>
+                <h3>Mindset</h3>
               </div>
             </div>
             <div className="flip-card-back">
-              <h1>creativity</h1>
-              <h6>Theres no limit</h6>
-              <h6>to anything</h6>
+              <p>
+                Mindest is crucial to Excellence Believe that you can and you
+                are halfway there,the only thing that stands between us and our
+                success is our mindset.What we believe is what we become.
+              </p>
             </div>
           </div>
         </div>
@@ -72,13 +77,14 @@ function About() {
                 width="200px"
               ></img>
               <div class="front-text">
-                <h3>Skills</h3>
+                <h3>Oppurtunities</h3>
               </div>
             </div>
             <div className="flip-card-back">
-              <h1>creativity</h1>
-              <h6>Theres no limit</h6>
-              <h6>to anything</h6>
+              <p>
+                Reach out and harvest the knowledge of others,surround yourself
+                with the right people
+              </p>
             </div>
           </div>
         </div>
@@ -97,9 +103,11 @@ function About() {
               </div>
             </div>
             <div className="flip-card-back">
-              <h1>creativity</h1>
-              <h6>Theres no limit</h6>
-              <h6>to anything</h6>
+              <p>
+                communication,problem-solving,integrity,work-ethic and
+                leadership are some of the building blocks for overall
+                development
+              </p>
             </div>
           </div>
         </div>

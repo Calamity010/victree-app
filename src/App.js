@@ -7,8 +7,11 @@ import Help from "./components/HelpSection/Help";
 import Partner from "./components/partnerSection/Partner";
 import Img from "./components/imgSection/Img";
 import GlobalStyles from "./components/globalStyles/GlobalStyle";
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootstrap-icons/font/bootstrap-icons.css";
+import "bootstrap";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.js";
+import { Footer } from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -21,6 +24,7 @@ function App() {
       <Help />
       <Partner />
       <Img />
+      <Footer/>
     </div>
   );
 }

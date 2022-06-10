@@ -101,4 +101,9 @@ li:hover {
 .img-class {
   float: left;
   width: auto;
+  border-radius: 50px;
+}
+
+.img-rounded{
+  border-radius: 50px;
 }

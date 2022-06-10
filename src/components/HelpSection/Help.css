@@ -46,42 +46,42 @@
 }
 
 #ctn-card1 {
-  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/technology.svg");
+  background-image: url("../images/technology.svg");
   background-size: 230px;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 #ctn-card2 {
-  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/farming.svg");
+  background-image: url("../images/farming.svg");
   background-size: 230px;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 #ctn-card3 {
-  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/science.svg");
+  background-image: url("../images/science.svg");
   background-size: 230px;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 #ctn-card4 {
-  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/business.svg");
+  background-image: url("../images/business.svg");
   background-size: 230px;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 #ctn-card5 {
-  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/trading.svg");
+  background-image: url("../images/trading.svg");
   background-size: 230px;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 #ctn-card6 {
-  background-image: url("E:/VS Code/Projects/victree-app/src/components/images/marketing.svg");
+  background-image: url("../images/marketing.svg");
   background-size: 230px;
   background-repeat: no-repeat;
   background-position: center;

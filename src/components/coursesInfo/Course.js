@@ -11,20 +11,21 @@ function Course() {
           <h6 class="h6-txt">All the skills you need!! </h6>
           <img src={banner} class="img-crd" alt=""></img>
           <p class="para-txt">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-            purus mi, condimentum nec erat ac, luctus posuere ipsum. Nulla
-            consectetur, massa in vulputate congue, turpis lectus tempor orci,
-            vel consequat tortor mauris sed elit. Suspendisse vulputate odio ac
-            pulvinar euismod. Nulla vestibulum sem vitae ex porttitor, id luctus
-            justo molestie
+            Catered for the best from the best, select from a wide varities of
+            courses and gain valuable insights from each field.We provide you
+            with the skills that are needed for you to work in an organization
+            by providing exposure to real world problems that companies face
+            ,become job ready to attend any job interviews with confident.
           </p>
           <p class="para-txt">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-            purus mi, condimentum nec erat ac, luctus posuere ipsum.
+            Vicktree is now bringing 60+ new courses that will help you learn
+            all the neccessary stuff you need to advance your career and
+            progress your growth.
           </p>
-          <button type="button" class="check-btn">Check out now</button>
+          <button type="button" class="check-btn">
+            Check out now
+          </button>
         </div>
-       
       </div>
     </>
   );

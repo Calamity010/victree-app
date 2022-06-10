@@ -10,19 +10,19 @@
   border-bottom-right-radius: 50px;
   margin-left: 20px;
   margin-right: 20px;
-  height: 400px;
+  height: 420px;
   background-color: #242424;
-  background-size: 740px;
+  background-size: 746px;
   background-repeat: no-repeat;
   background-position: 0px;
-  background-image: url("E:\VS Code\Projects\victree-app\src\components\images\redd-5U_28ojjgms-unsplash.jpg");
+  background-image: url("../images/redd-5U_28ojjgms-unsplash.jpg");
   display: flex;
   flex-direction: row;
   justify-content: right;
   flex-wrap: wrap;
   color: white;
   padding-right: 80px;
-  padding-top: 20px;
+  padding-top: 0px;
   font-family: 'Montserrat', sans-serif;;
 }
 

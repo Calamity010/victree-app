@@ -1,11 +1,6 @@
 import React from "react";
 import "./Help.css";
-import business from "../images/business.svg";
-import technology from "../images/technology.svg";
-import farming from "../images/farming.svg";
-import marketing from "../images/marketing.svg";
-import Science from "../images/science.svg";
-import Trading from "../images/trading.svg";
+
 
 function Help() {
   return (
